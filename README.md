@@ -1,4 +1,4 @@
-# Jing-Jing Randate Picker
+# Jing-Jing Random Date Picker
 
 Pick a date for Jing-Jing (my friend)!
 
